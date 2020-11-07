@@ -37,16 +37,12 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mOhAmEd9606's GitHub Stats" src="https://github-readme-stats.mOhAmEd9606.vercel.app/api?username=mOhAmEd9606&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://fsbmcours.com
 [twitter]: https://twitter.com/MohamedMasstour
 [youtube]: https://youtube.com/fsbmcours
 [instagram]: https://instagram.com/mohamed_masstour
 [linkedin]: https://linkedin.com/in/mohamed-masstour-860210169
 [webdevplaylist]: https://www.youtube.com/fsbmcours?
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
